@@ -1,5 +1,5 @@
 # last-slime-standing
-FR ONLY! un shooter un 2d vue de dessus, avec des vagues infinis d'ennemis, des bonus(coffres, lvl up, bonus de bosses) et 3 bosses qui apparaissent toutes les 60 secondes! Dans cet univers, vous êtes le dernier des slimes, et la grande armée des templiers sont prêt à tous pour vous exterminer! Combien de tant survivrez vous face à cette dernière croisade?
+FR ONLY! un shooter un 2d vue de dessus, avec des vagues infinis d'ennemis, des bonus(coffres, lvl up, bonus de bosses) et 3 bosses qui apparaissent toutes les 60 secondes! Dans cet univers, vous êtes le dernier des slimes, et la grande armée des templiers est prête à tout pour vous exterminer! Combien de tant survivrez vous face à cette dernière croisade?
 
 
 Features:
